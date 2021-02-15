@@ -1,0 +1,4 @@
+br/com/poc/rabbitmq/mensageria/queue/ConsumerQueue.class
+br/com/poc/rabbitmq/mensageria/queue/FileSendQueue.class
+br/com/poc/rabbitmq/mensageria/queue/DataImportQueue.class
+br/com/poc/rabbitmq/mensageria/MensageriaApplication.class

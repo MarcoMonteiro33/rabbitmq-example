@@ -1,0 +1,4 @@
+/home/marcomonteiro/Documentos/projects/mensageria/src/main/java/br/com/poc/rabbitmq/mensageria/queue/ConsumerQueue.java
+/home/marcomonteiro/Documentos/projects/mensageria/src/main/java/br/com/poc/rabbitmq/mensageria/queue/DataImportQueue.java
+/home/marcomonteiro/Documentos/projects/mensageria/src/main/java/br/com/poc/rabbitmq/mensageria/MensageriaApplication.java
+/home/marcomonteiro/Documentos/projects/mensageria/src/main/java/br/com/poc/rabbitmq/mensageria/queue/FileSendQueue.java
